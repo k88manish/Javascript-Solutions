@@ -1,0 +1,16 @@
+{
+  "name": "AlgoAndProblems",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Manish Kumar",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --verbose=false"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
